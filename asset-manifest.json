@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/https,://b1ralan.github.io/weather-react-app/static/css/main.293f5b81.chunk.css",
+    "main.js": "/https,://b1ralan.github.io/weather-react-app/static/js/main.39ecfd07.chunk.js",
+    "main.js.map": "/https,://b1ralan.github.io/weather-react-app/static/js/main.39ecfd07.chunk.js.map",
+    "runtime-main.js": "/https,://b1ralan.github.io/weather-react-app/static/js/runtime-main.8beb7f78.js",
+    "runtime-main.js.map": "/https,://b1ralan.github.io/weather-react-app/static/js/runtime-main.8beb7f78.js.map",
+    "static/js/2.2f7065b2.chunk.js": "/https,://b1ralan.github.io/weather-react-app/static/js/2.2f7065b2.chunk.js",
+    "static/js/2.2f7065b2.chunk.js.map": "/https,://b1ralan.github.io/weather-react-app/static/js/2.2f7065b2.chunk.js.map",
+    "index.html": "/https,://b1ralan.github.io/weather-react-app/index.html",
+    "static/css/main.293f5b81.chunk.css.map": "/https,://b1ralan.github.io/weather-react-app/static/css/main.293f5b81.chunk.css.map",
+    "static/js/2.2f7065b2.chunk.js.LICENSE.txt": "/https,://b1ralan.github.io/weather-react-app/static/js/2.2f7065b2.chunk.js.LICENSE.txt",
+    "static/media/cloud.537bf324.svg": "/https,://b1ralan.github.io/weather-react-app/static/media/cloud.537bf324.svg",
+    "static/media/location.2dfb72ad.svg": "/https,://b1ralan.github.io/weather-react-app/static/media/location.2dfb72ad.svg",
+    "static/media/rain.0b103200.svg": "/https,://b1ralan.github.io/weather-react-app/static/media/rain.0b103200.svg",
+    "static/media/strom.8596a268.svg": "/https,://b1ralan.github.io/weather-react-app/static/media/strom.8596a268.svg",
+    "static/media/sun.9647b3c9.svg": "/https,://b1ralan.github.io/weather-react-app/static/media/sun.9647b3c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8beb7f78.js",
+    "static/js/2.2f7065b2.chunk.js",
+    "static/css/main.293f5b81.chunk.css",
+    "static/js/main.39ecfd07.chunk.js"
+  ]
+}
