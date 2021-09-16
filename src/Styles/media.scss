@@ -1,0 +1,181 @@
+@media (max-width: 886px){
+  .wrapper {
+    .location{
+      &__city{
+        font-size: 45px;
+      }
+      &__change-city-form{
+        .react-select {
+          &__control {
+            width: 442px;
+          }
+          &__menu{
+            width: 517px;
+          }
+        }
+        button {
+          left: 530px;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 800px){
+  .wrapper {
+    .location{
+      &__city{
+        font-size: 45px;
+      }
+      &__change-city-form{
+        .react-select {
+          &__control {
+            width: 400px;
+          }
+          &__menu{
+            width: 475px;
+          }
+        }
+        button {
+          left: 487px;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 768px){
+  .wrapper {
+    .location {
+      &__city{
+        padding: 40px 0 10px 50px;
+        font-size: 40px;
+      }
+      &__change-city-form{
+        top: 50px;
+        left: 50px;
+        .react-select {
+          &__control {
+            width: 400px;
+          }
+          &__menu{
+            width: 475px;
+          }
+          &__value-container {
+            font-size: 24px;
+          }
+        }
+        button {
+          left: 442px;
+          top: 50px;
+          height: 96px;
+        }
+      }
+      &__change-button_city{
+        margin-left: 45px;
+      }
+    }
+    .units{
+      padding: 50px 40px 0 0;
+    }
+    .weather-info {
+      grid-template-areas: "block_1 block_2"
+                           "block_3 block_4";
+      grid-gap: 30px;
+      margin-bottom: 40px;
+    }
+  }
+}
+
+@media (max-width: 690px) {
+  .wrapper{
+    .location {
+      &__city{
+        padding: 40px 0 10px 50px;
+        font-size: 40px;
+      }
+      &__change-city-form{
+        top: 50px;
+        left: 50px;
+        .react-select {
+          &__control {
+            width: 525px;
+          }
+          &__menu{
+            width: 600px;
+          }
+          &__value-container {
+            font-size: 24px;
+            padding: 24px 20px;
+          }
+        }
+        button {
+          left: 568px;
+          top: 50px;
+          height: 92px;
+        }
+      }
+    }
+    .units{
+      padding: 50px 40px 0 0;
+    }
+    .weather {
+      margin: 175px 36px 200px 69px;
+      &__temp{
+        font-size: 160px;
+      }
+    }
+
+  }
+}
+@media (max-width: 672px) {
+  .wrapper{
+    .location{
+      &__change-city-form{
+       .react-select {
+         &__control {
+           width: 507px;
+         }
+         &__menu{
+           width: 583px;
+         }
+       }
+        button {
+          left: 550px;
+
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 660px) {
+  .wrapper{
+    .location{
+      &__city{
+        padding: 40px 0 10px 50px;
+        font-size: 44px;
+      }
+      &__change-button_location{
+        display: none;
+      }
+      &__change-city-form{
+        .react-select {
+          &__control {
+            width: 437px;
+          }
+          &__menu{
+            width: 512px;
+          }
+        }
+        button {
+          left: 480px;
+
+        }
+      }
+    }
+    .units{
+      padding: 50px 95px 0 0;
+    }
+  }
+}
